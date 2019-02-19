@@ -24,6 +24,11 @@ body {
 	width: calc(100%/4);
 }
 
+.strech{
+	height:100%;
+	width:100%;
+}
+
 .block{
 	display: row;
 	height: 75%;
